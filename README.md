@@ -2,5 +2,9 @@
 ![Screenshot (369)](https://github.com/techiegith/Employee-management-System/assets/128968069/f19161c0-ce18-4858-8a9a-0f84cb7ce55c)
 
 Video--
-https://github.com/techiegith/Employee-management-System/assets/128968069/8ee014a3-0cf5-4edd-9edd-06a8799706ed
+
+
+
+
+https://github.com/techiegith/Employee-management-System/assets/128968069/59a245e4-94a3-47e1-947a-0384c8026feb
 
